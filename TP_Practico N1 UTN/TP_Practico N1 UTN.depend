@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1459702238 source:c:\utn fra tecnicatura\laboratorio y programacion i\tp_practico n1 utn\desarrollo.c
+	<stdio.h>
+	<stdlib.h>
+
+1459702557 source:c:\utn fra tecnicatura\laboratorio y programacion i\tp_practico n1 utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1459700398 c:\utn fra tecnicatura\laboratorio y programacion i\tp_practico n1 utn\main.h
+
+1459990408 source:g:\tp_practico n1 utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1459961490 g:\tp_practico n1 utn\main.h
+
+1459989972 source:g:\tp_practico n1 utn\desarrollo.c
+	<stdio.h>
+	<stdlib.h>
+
+1459942752 source:f:\tp_practico n1 utn\desarrollo.c
+	<stdio.h>
+	<stdlib.h>
+
+1459945222 source:f:\tp_practico n1 utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1459943082 f:\tp_practico n1 utn\main.h
+
